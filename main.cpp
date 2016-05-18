@@ -1,1 +1,3 @@
-code1
+int main ( int argc ) {
+	
+}
